@@ -1,0 +1,4 @@
+theme: jekyll-theme-slate
+title: IIIF server
+description: Server for hosting manuscripts images
+logo: https://iiif.io/img/logo-iiif-34x30.png
