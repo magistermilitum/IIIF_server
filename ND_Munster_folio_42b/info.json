@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "ND_Munster_folio_42b",
+  "@id": "https://github.com/magistermilitum/IIIF_server/tree/main/ND_Munster_folio_42b",
   "height": 2377,
   "profile": [
     "http://iiif.io/api/image/2/level0.json",
