@@ -1,0 +1,308 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://cb6e316f-3c59-4739-99ea-8d1a966144f1",
+	"@type": "sc:Manifest",
+	"label": "Notre-Dame de Munster",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://86e25dbf-1603-4a6e-906b-a3c8b2ba0302",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://0455b9e5-d236-42f1-ba22-357deb407857",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 2495,
+					"width": 1826,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://b82156c9-08e3-41a5-a101-95714e8ab7a5",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.tridis.me/iiif/2/ND_Munster%2FND_Munster_folio_1a.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.tridis.me/iiif/2/ND_Munster%2FND_Munster_folio_1a.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 4555870,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2495,
+								"width": 1826
+							},
+							"on": "http://0455b9e5-d236-42f1-ba22-357deb407857"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://56a048ee-bffc-4dd7-bfae-c4a320f8e8c8",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 2495,
+					"width": 1826,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://a781c6be-f6e1-41af-8dc0-ad7e78246a8e",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.tridis.me/iiif/2/ND_Munster%2FND_Munster_folio_1b.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.tridis.me/iiif/2/ND_Munster%2FND_Munster_folio_1b.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 4555870,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2495,
+								"width": 1826
+							},
+							"on": "http://56a048ee-bffc-4dd7-bfae-c4a320f8e8c8"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://aac96d68-d58f-4b9d-83ef-d5c0e45f6503",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 2395,
+					"width": 1840,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://999e82be-c232-4c19-aa54-4e9e565a3050",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.tridis.me/iiif/2/ND_Munster%2FND_Munster_folio_2a.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.tridis.me/iiif/2/ND_Munster%2FND_Munster_folio_2a.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 4406800,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2395,
+								"width": 1840
+							},
+							"on": "http://aac96d68-d58f-4b9d-83ef-d5c0e45f6503"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://d1a975b4-252e-4145-9424-d3ee214644d3",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 2395,
+					"width": 1839,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://eb0b608f-05c3-4ecc-8482-560ba8ce733f",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.tridis.me/iiif/2/ND_Munster%2FND_Munster_folio_2b.jpg/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.tridis.me/iiif/2/ND_Munster%2FND_Munster_folio_2b.jpg",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 4404405,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"regionByPx",
+												"sizeByW",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 2395,
+								"width": 1839
+							},
+							"on": "http://d1a975b4-252e-4145-9424-d3ee214644d3"
+						}
+					],
+					"related": "",
+					"metadata": [
+						{
+							"label": "Label",
+							"value": {
+								"@value": "",
+								"@language": "Latin"
+							}
+						}
+					]
+				}
+			]
+		}
+	],
+	"structures": [],
+	"viewingDirection": "left-to-right"
+}
